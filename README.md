@@ -45,3 +45,5 @@ ___
 | --- | --- | --- | --- | --- |
 | 1 | 11 September | 07:00 | Admistrasi Perpustakaan | Membantu merapikan buku buku untuk di registrasi |
 | 2 | 11 September | 09:00 | Lahan | Melakukan cek lahan untuk program apotik hidup |
+| 3 | 11 September | 12:00 | Admistrasi Perpustakaan | Membantu merapikan buku buku untuk di Registrasi |
+| 4 | 12 September | 07:00 | 
